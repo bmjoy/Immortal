@@ -1,0 +1,1341 @@
+fileFormatVersion: 2
+guid: 3e615335a95621147bba34dae562b8fb
+timeCreated: 1443497519
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: humanfemale
+    100004: humanfemale 1
+    100006: humanfemale_bone_0
+    100008: humanfemale_bone_1
+    100010: humanfemale_bone_10
+    100012: humanfemale_bone_100
+    100014: humanfemale_bone_101
+    100016: humanfemale_bone_102
+    100018: humanfemale_bone_103
+    100020: humanfemale_bone_104
+    100022: humanfemale_bone_105
+    100024: humanfemale_bone_106
+    100026: humanfemale_bone_107
+    100028: humanfemale_bone_108
+    100030: humanfemale_bone_109
+    100032: humanfemale_bone_11
+    100034: humanfemale_bone_110
+    100036: humanfemale_bone_111
+    100038: humanfemale_bone_112
+    100040: humanfemale_bone_113
+    100042: humanfemale_bone_114
+    100044: humanfemale_bone_115
+    100046: humanfemale_bone_116
+    100048: humanfemale_bone_117
+    100050: humanfemale_bone_118
+    100052: humanfemale_bone_119
+    100054: humanfemale_bone_12
+    100056: humanfemale_bone_120
+    100058: humanfemale_bone_121
+    100060: humanfemale_bone_122
+    100062: humanfemale_bone_123
+    100064: humanfemale_bone_124
+    100066: humanfemale_bone_125
+    100068: humanfemale_bone_126
+    100070: humanfemale_bone_127
+    100072: humanfemale_bone_13
+    100074: humanfemale_bone_14
+    100076: humanfemale_bone_15
+    100078: humanfemale_bone_16
+    100080: humanfemale_bone_17
+    100082: humanfemale_bone_18
+    100084: humanfemale_bone_19
+    100086: humanfemale_bone_2
+    100088: humanfemale_bone_20
+    100090: humanfemale_bone_21
+    100092: humanfemale_bone_22
+    100094: humanfemale_bone_23
+    100096: humanfemale_bone_24
+    100098: humanfemale_bone_25
+    100100: humanfemale_bone_26
+    100102: humanfemale_bone_27
+    100104: humanfemale_bone_28
+    100106: humanfemale_bone_29
+    100108: humanfemale_bone_3
+    100110: humanfemale_bone_30
+    100112: humanfemale_bone_31
+    100114: humanfemale_bone_32
+    100116: humanfemale_bone_33
+    100118: humanfemale_bone_34
+    100120: humanfemale_bone_35
+    100122: humanfemale_bone_36
+    100124: humanfemale_bone_37
+    100126: humanfemale_bone_38
+    100128: humanfemale_bone_39
+    100130: humanfemale_bone_4
+    100132: humanfemale_bone_40
+    100134: humanfemale_bone_41
+    100136: humanfemale_bone_42
+    100138: humanfemale_bone_43
+    100140: humanfemale_bone_44
+    100142: humanfemale_bone_45
+    100144: humanfemale_bone_46
+    100146: humanfemale_bone_47
+    100148: humanfemale_bone_48
+    100150: humanfemale_bone_49
+    100152: humanfemale_bone_5
+    100154: humanfemale_bone_50
+    100156: humanfemale_bone_51
+    100158: humanfemale_bone_52
+    100160: humanfemale_bone_53
+    100162: humanfemale_bone_54
+    100164: humanfemale_bone_55
+    100166: humanfemale_bone_56
+    100168: humanfemale_bone_57
+    100170: humanfemale_bone_58
+    100172: humanfemale_bone_59
+    100174: humanfemale_bone_6
+    100176: humanfemale_bone_60
+    100178: humanfemale_bone_61
+    100180: humanfemale_bone_62
+    100182: humanfemale_bone_63
+    100184: humanfemale_bone_64
+    100186: humanfemale_bone_65
+    100188: humanfemale_bone_66
+    100190: humanfemale_bone_67
+    100192: humanfemale_bone_68
+    100194: humanfemale_bone_69
+    100196: humanfemale_bone_7
+    100198: humanfemale_bone_70
+    100200: humanfemale_bone_71
+    100202: humanfemale_bone_72
+    100204: humanfemale_bone_73
+    100206: humanfemale_bone_74
+    100208: humanfemale_bone_75
+    100210: humanfemale_bone_76
+    100212: humanfemale_bone_77
+    100214: humanfemale_bone_78
+    100216: humanfemale_bone_79
+    100218: humanfemale_bone_8
+    100220: humanfemale_bone_80
+    100222: humanfemale_bone_81
+    100224: humanfemale_bone_82
+    100226: humanfemale_bone_83
+    100228: humanfemale_bone_84
+    100230: humanfemale_bone_85
+    100232: humanfemale_bone_86
+    100234: humanfemale_bone_87
+    100236: humanfemale_bone_88
+    100238: humanfemale_bone_89
+    100240: humanfemale_bone_9
+    100242: humanfemale_bone_90
+    100244: humanfemale_bone_91
+    100246: humanfemale_bone_92
+    100248: humanfemale_bone_93
+    100250: humanfemale_bone_94
+    100252: humanfemale_bone_95
+    100254: humanfemale_bone_96
+    100256: humanfemale_bone_97
+    100258: humanfemale_bone_98
+    100260: humanfemale_bone_99
+    400000: //RootNode
+    400002: humanfemale
+    400004: humanfemale 1
+    400006: humanfemale_bone_0
+    400008: humanfemale_bone_1
+    400010: humanfemale_bone_10
+    400012: humanfemale_bone_100
+    400014: humanfemale_bone_101
+    400016: humanfemale_bone_102
+    400018: humanfemale_bone_103
+    400020: humanfemale_bone_104
+    400022: humanfemale_bone_105
+    400024: humanfemale_bone_106
+    400026: humanfemale_bone_107
+    400028: humanfemale_bone_108
+    400030: humanfemale_bone_109
+    400032: humanfemale_bone_11
+    400034: humanfemale_bone_110
+    400036: humanfemale_bone_111
+    400038: humanfemale_bone_112
+    400040: humanfemale_bone_113
+    400042: humanfemale_bone_114
+    400044: humanfemale_bone_115
+    400046: humanfemale_bone_116
+    400048: humanfemale_bone_117
+    400050: humanfemale_bone_118
+    400052: humanfemale_bone_119
+    400054: humanfemale_bone_12
+    400056: humanfemale_bone_120
+    400058: humanfemale_bone_121
+    400060: humanfemale_bone_122
+    400062: humanfemale_bone_123
+    400064: humanfemale_bone_124
+    400066: humanfemale_bone_125
+    400068: humanfemale_bone_126
+    400070: humanfemale_bone_127
+    400072: humanfemale_bone_13
+    400074: humanfemale_bone_14
+    400076: humanfemale_bone_15
+    400078: humanfemale_bone_16
+    400080: humanfemale_bone_17
+    400082: humanfemale_bone_18
+    400084: humanfemale_bone_19
+    400086: humanfemale_bone_2
+    400088: humanfemale_bone_20
+    400090: humanfemale_bone_21
+    400092: humanfemale_bone_22
+    400094: humanfemale_bone_23
+    400096: humanfemale_bone_24
+    400098: humanfemale_bone_25
+    400100: humanfemale_bone_26
+    400102: humanfemale_bone_27
+    400104: humanfemale_bone_28
+    400106: humanfemale_bone_29
+    400108: humanfemale_bone_3
+    400110: humanfemale_bone_30
+    400112: humanfemale_bone_31
+    400114: humanfemale_bone_32
+    400116: humanfemale_bone_33
+    400118: humanfemale_bone_34
+    400120: humanfemale_bone_35
+    400122: humanfemale_bone_36
+    400124: humanfemale_bone_37
+    400126: humanfemale_bone_38
+    400128: humanfemale_bone_39
+    400130: humanfemale_bone_4
+    400132: humanfemale_bone_40
+    400134: humanfemale_bone_41
+    400136: humanfemale_bone_42
+    400138: humanfemale_bone_43
+    400140: humanfemale_bone_44
+    400142: humanfemale_bone_45
+    400144: humanfemale_bone_46
+    400146: humanfemale_bone_47
+    400148: humanfemale_bone_48
+    400150: humanfemale_bone_49
+    400152: humanfemale_bone_5
+    400154: humanfemale_bone_50
+    400156: humanfemale_bone_51
+    400158: humanfemale_bone_52
+    400160: humanfemale_bone_53
+    400162: humanfemale_bone_54
+    400164: humanfemale_bone_55
+    400166: humanfemale_bone_56
+    400168: humanfemale_bone_57
+    400170: humanfemale_bone_58
+    400172: humanfemale_bone_59
+    400174: humanfemale_bone_6
+    400176: humanfemale_bone_60
+    400178: humanfemale_bone_61
+    400180: humanfemale_bone_62
+    400182: humanfemale_bone_63
+    400184: humanfemale_bone_64
+    400186: humanfemale_bone_65
+    400188: humanfemale_bone_66
+    400190: humanfemale_bone_67
+    400192: humanfemale_bone_68
+    400194: humanfemale_bone_69
+    400196: humanfemale_bone_7
+    400198: humanfemale_bone_70
+    400200: humanfemale_bone_71
+    400202: humanfemale_bone_72
+    400204: humanfemale_bone_73
+    400206: humanfemale_bone_74
+    400208: humanfemale_bone_75
+    400210: humanfemale_bone_76
+    400212: humanfemale_bone_77
+    400214: humanfemale_bone_78
+    400216: humanfemale_bone_79
+    400218: humanfemale_bone_8
+    400220: humanfemale_bone_80
+    400222: humanfemale_bone_81
+    400224: humanfemale_bone_82
+    400226: humanfemale_bone_83
+    400228: humanfemale_bone_84
+    400230: humanfemale_bone_85
+    400232: humanfemale_bone_86
+    400234: humanfemale_bone_87
+    400236: humanfemale_bone_88
+    400238: humanfemale_bone_89
+    400240: humanfemale_bone_9
+    400242: humanfemale_bone_90
+    400244: humanfemale_bone_91
+    400246: humanfemale_bone_92
+    400248: humanfemale_bone_93
+    400250: humanfemale_bone_94
+    400252: humanfemale_bone_95
+    400254: humanfemale_bone_96
+    400256: humanfemale_bone_97
+    400258: humanfemale_bone_98
+    400260: humanfemale_bone_99
+    4300000: humanfemale
+    7400000: Stand
+    7400002: Walk
+    7400004: Run
+    7400006: Ready1H
+    7400008: Ready2H
+    7400010: Attack1H
+    7400012: Parry1H
+    7400014: Stun
+    7400016: Parry2H
+    7400018: Dodge
+    7400020: Loot
+    7400022: ShieldBlock
+    7400024: Death
+    7400026: LoadBow
+    7400028: ReadyBow
+    7400030: Special2H
+    7400032: ShieldBash
+    7400034: AttackOff
+    7400036: Stop
+    7400038: LoadRifle
+    7400040: HoldBow
+    7400042: HoldRifle
+    7400044: Attack2H
+    7400046: Fall
+    7400048: Jump
+    7400050: JumpStart
+    7400052: JumpEnd
+    7400054: StealthWalk
+    7400056: StealthStand
+    7400058: Special1H
+    7400060: Walkbackwards
+    9500000: //RootNode
+    13700000: humanfemale
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 'MuscleClip ''HumanFemale'' conversion warning: ''humanfemale
+      1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3'' is between humanoid
+      transforms and has rotation animation. This might lower retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+      MuscleClip ''HumanFemale'' conversion warning: ''humanfemale 1/humanfemale_bone_0/humanfemale_bone_1/humanfemale_bone_3''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+'
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: humanfemale_bone_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_6
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_13
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_23
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_11
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_18
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_16
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_19
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_20
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_33
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_34
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_39
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_41
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_36
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_32
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_31
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_26
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_45
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_49
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_46
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_4
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_17
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_5
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_12
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_21
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: humanfemale_bone_35
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: HumanFemale(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_1
+      position: {x: -0, y: .61091423, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_2
+      position: {x: .00117143895, y: -.00461411476, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_4
+      position: {x: .0114890691, y: .042540729, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_9
+      position: {x: -.0880030766, y: .0833303332, z: -.0491958335}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_10
+      position: {x: -.0880031437, y: .0833303332, z: .0491972826}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_11
+      position: {x: .0055725323, y: .178747341, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_18
+      position: {x: -.0016916357, y: .0283443928, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_26
+      position: {x: .0341570824, y: .0399591327, z: 5.56989544e-05}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_27
+      position: {x: .0368271135, y: .0395981073, z: 5.5701661e-05}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_28
+      position: {x: .0282008871, y: .039947927, z: 4.64958321e-05}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_29
+      position: {x: -.0555980466, y: .0403296947, z: -.0174011793}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_30
+      position: {x: -.0555980764, y: .0403296947, z: .0177004281}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_31
+      position: {x: .0367781073, y: .0288808942, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_37
+      position: {x: .01536009, y: -.00287538767, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_42
+      position: {x: .0272365063, y: -.0170214176, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_47
+      position: {x: .0123715997, y: -.05492419, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_50
+      position: {x: -.0177172348, y: -.0617358088, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_32
+      position: {x: -.0274408832, y: .0111116171, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_104
+      position: {x: -.042543333, y: .0925588012, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_105
+      position: {x: -.0715695918, y: -.000182449818, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_108
+      position: {x: -.0715687573, y: -.000182628632, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_109
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_16
+      position: {x: .00858120527, y: .162645981, z: -.0375415608}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_19
+      position: {x: .00022684969, y: -.0211109519, z: -.0491577387}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_33
+      position: {x: .010588971, y: -.144608855, z: -.0238498729}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_38
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_116
+      position: {x: .0348867737, y: -.00277173519, z: .00120580941}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_39
+      position: {x: -.021745123, y: -.144270003, z: -.0174923316}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_43
+      position: {x: -.0014513135, y: -.0440779924, z: -.0113366386}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_48
+      position: {x: -.00218914356, y: -.0288210195, z: .00224009156}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_44
+      position: {x: -.0173940603, y: -.0219788253, z: .0138372704}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_115
+      position: {x: -.00865047146, y: -.0463513397, z: .00856840611}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_126
+      position: {x: -.00292310445, y: -.0169709027, z: -.000242009759}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_117
+      position: {x: -.00865098834, y: -.0499780737, z: .0101760766}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_121
+      position: {x: -.008650993, y: -.0499780737, z: .0101760766}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_127
+      position: {x: 1.0477379e-09, y: 0, z: 7.4505806e-09}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_122
+      position: {x: -.0086504966, y: -.0499779582, z: .0101752942}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_112
+      position: {x: -.0214202087, y: -.144448578, z: -.0488934591}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_113
+      position: {x: -.0214201994, y: -.144448578, z: -.118337907}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_101
+      position: {x: .00235887431, y: .0429573618, z: .0172548518}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_110
+      position: {x: .000639619306, y: .0023816824, z: -.00129032135}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_17
+      position: {x: .00858116243, y: .162646055, z: .0375415795}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_20
+      position: {x: .00644323416, y: -.0217813849, z: .0474275537}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_34
+      position: {x: .00822502747, y: -.145189285, z: .021096915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_40
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_41
+      position: {x: -.0255977008, y: -.143019676, z: .0219718069}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_45
+      position: {x: -.00168096356, y: -.0454564355, z: .00996151567}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_49
+      position: {x: -.00577610172, y: -.0241295695, z: -.00523661077}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_46
+      position: {x: -.0200400017, y: -.0241563916, z: -.0118494993}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_114
+      position: {x: -.00581545755, y: -.0435272157, z: -.00926410407}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_118
+      position: {x: -.01407516, y: -.048635453, z: -.00689734519}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_119
+      position: {x: -.0156610943, y: -.0626735985, z: -.018656157}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_120
+      position: {x: -.188881397, y: -.316210091, z: -.214758292}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_123
+      position: {x: -.014076028, y: -.0486353897, z: -.0068976949}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_124
+      position: {x: -.0140747344, y: -.0486410223, z: -.00690332055}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_125
+      position: {x: -.0140747344, y: -.0486410223, z: -.00690332055}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_100
+      position: {x: -.00385746709, y: .0436277948, z: -.0155246854}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_111
+      position: {x: .00063251704, y: -.00181114674, z: -.00363306701}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_89
+      position: {x: .0597630255, y: .121197462, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_90
+      position: {x: -.0341781937, y: .0750876665, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_91
+      position: {x: .0177867338, y: .0750875995, z: 3.38607515e-06}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_92
+      position: {x: .0768007711, y: .206545234, z: .104166597}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_93
+      position: {x: .130304292, y: .198208213, z: -.104166694}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_94
+      position: {x: .0947014913, y: .0323684216, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_95
+      position: {x: .101322867, y: .111963086, z: -.0359171219}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_96
+      position: {x: .0681549758, y: .111967444, z: .0358934775}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_97
+      position: {x: .0194778368, y: .0490044355, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_98
+      position: {x: .132404372, y: .197069585, z: .0579802319}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_99
+      position: {x: 1.86264515e-09, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_74
+      position: {x: -.0459772609, y: .0204676986, z: -.0777984336}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_75
+      position: {x: -.0497825034, y: .0186998844, z: .0833333358}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_77
+      position: {x: -.00117143895, y: -.0507445335, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_78
+      position: {x: -.00117143895, y: -.0507445335, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_79
+      position: {x: -.00117143895, y: -.0507444739, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_80
+      position: {x: -.00117143895, y: -.0507445894, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_81
+      position: {x: -.00117143895, y: -.0507445894, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_82
+      position: {x: -.00117143895, y: -.0507410131, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_83
+      position: {x: -.00117143895, y: -.0507410131, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_84
+      position: {x: -.00117143895, y: -.0507410131, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_85
+      position: {x: -.00117143895, y: -.0507410131, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_86
+      position: {x: -.00117143895, y: -.0507410131, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_87
+      position: {x: -.00117143895, y: -.0507410131, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_88
+      position: {x: -.00117143895, y: -.0507444739, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_3
+      position: {x: -.00900598615, y: -.0306894183, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_5
+      position: {x: -.00586713292, y: -.0345106125, z: -.0434770063}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_12
+      position: {x: .0158766713, y: -.25106737, z: .00837597903}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_21
+      position: {x: .0275239851, y: -.250057608, z: .00840830058}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_35
+      position: {x: -.0563431531, y: -.0310277529, z: -.00779009983}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_106
+      position: {x: -1.86264515e-09, y: 7.4505806e-09, z: -1.86264515e-09}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_22
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_103
+      position: {x: -.0465215035, y: -.0136364102, z: -.00308789662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_6
+      position: {x: -.00569418352, y: -.0345158577, z: .0434722193}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_13
+      position: {x: .0153043326, y: -.251101136, z: -.00843199342}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_23
+      position: {x: .0279233586, y: -.250033915, z: -.00777241727}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_36
+      position: {x: -.0560674407, y: -.031128088, z: .00924340822}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_107
+      position: {x: 2.04890966e-08, y: -1.11758709e-08, z: -9.31322575e-09}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_24
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_102
+      position: {x: -.0467011631, y: -.011218518, z: .00278014294}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_7
+      position: {x: .0722852573, y: -.0676368475, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_14
+      position: {x: -.0117477477, y: -.0807652771, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_8
+      position: {x: -.0451700017, y: -.0319756269, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_15
+      position: {x: -.00788691267, y: -.0767176673, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_25
+      position: {x: -.00358497724, y: -.0767177343, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_76
+      position: {x: -.0605945662, y: -.0155884027, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_73
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_51
+      position: {x: .0130589912, y: 1.07176769, z: .00537424441}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_52
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_53
+      position: {x: .00615594722, y: 1.02523911, z: .00537424441}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_54
+      position: {x: .00568951946, y: .588364601, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_55
+      position: {x: -.245401904, y: 0, z: -.0148642231}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_56
+      position: {x: -.289151102, y: 0, z: .0121385716}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_57
+      position: {x: -.0829294398, y: 0, z: -.0267633665}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_58
+      position: {x: -.0806758031, y: 0, z: .0156753026}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_59
+      position: {x: -.0129978117, y: 0, z: -.019671673}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_60
+      position: {x: -.0676842406, y: 0, z: .00359196472}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_61
+      position: {x: .112912983, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_62
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_63
+      position: {x: .0559368469, y: 0, z: .040026363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_64
+      position: {x: -.0417565703, y: 0, z: -.106646523}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_65
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_66
+      position: {x: .196228325, y: 0, z: -.0243625715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_67
+      position: {x: .193073094, y: 0, z: .0325965695}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_68
+      position: {x: -.0739028752, y: 0, z: .0209200624}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_69
+      position: {x: .0396023728, y: 0, z: -.01926676}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_70
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_71
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: humanfemale_bone_72
+      position: {x: -.0220622662, y: .661634982, z: .0454247743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
